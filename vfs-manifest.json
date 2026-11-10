@@ -1,0 +1,26 @@
+[
+  {
+    "path": "App.tsx",
+    "file": {
+      "file_name": "/mnt/data/src/App.tsx",
+      "storage_handle": "",
+      "storage_type": "BASE64"
+    }
+  },
+  {
+    "path": "index.css",
+    "file": {
+      "file_name": "/mnt/data/.krabby/agentic_web_artifacts/agentic_artifact_1/7f0b4679aa8b/index.css",
+      "storage_handle": "",
+      "storage_type": "BASE64",
+      "source_tools": [
+        "container.apply_patch",
+        "container.build_react_artifact",
+        "container.create",
+        "container.create_web_artifact_agent",
+        "container.validate_react_artifact",
+        "container.view"
+      ]
+    }
+  }
+]
